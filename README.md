@@ -1,7 +1,7 @@
 #README
 This project is a repo browser for github. Use React, and you can clone:
 ```
-$ git clone git clone https://github.com/kamiloc/repo-browser
+$ git clone https://github.com/kamiloc/repo-browser
 ```
 After install npm dependencies:
 ```

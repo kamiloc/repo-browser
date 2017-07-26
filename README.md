@@ -1,4 +1,5 @@
-#README
+# Repo Browser
+
 This project is a repo browser for github. Use React, and you can clone:
 ```
 $ git clone https://github.com/kamiloc/repo-browser
